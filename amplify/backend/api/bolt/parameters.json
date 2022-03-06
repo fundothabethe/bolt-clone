@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "bolt",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authboltc01d145fc01d145f",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

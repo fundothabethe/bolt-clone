@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bolt-dev-35617-authRole",
+      "UnauthRoleArn": "arn:aws:iam::367657283441:role/amplify-bolt-dev-35617-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::367657283441:role/amplify-bolt-dev-35617-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-bolt-dev-35617-deployment",
+      "UnauthRoleName": "amplify-bolt-dev-35617-unauthRole",
+      "StackName": "amplify-bolt-dev-35617",
+      "StackId": "arn:aws:cloudformation:ap-south-1:367657283441:stack/amplify-bolt-dev-35617/3d2e0110-ca58-11eb-9b48-0a1e52e0b6c0",
+      "AmplifyAppId": "d6x9bagqpm7dy"
+    },
+    "categories": {
+      "function": {
+        "boltc01d145fc01d145fPostConfirmation": {
+          "deploymentBucketName": "amplify-bolt-dev-35617-deployment",
+          "s3Key": "amplify-builds/boltc01d145fc01d145fPostConfirmation-757769755a437631724d-build.zip"
+        }
+      },
+      "auth": {
+        "boltc01d145fc01d145f": {}
+      }
+    }
+  }
+}
